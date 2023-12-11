@@ -6,7 +6,7 @@ public class Human {
 		int age;
 		static String country;
 		static int pin; 
-		
+		static int i=10;
 		void speak(String content) {
 			System.out.println( name + ": " + content);
 		}
